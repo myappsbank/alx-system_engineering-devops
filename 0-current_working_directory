@@ -1,0 +1,3 @@
+#!/bin/bash
+#This script is to print the path name for the current working directory
+pwd
