@@ -1,2 +1,2 @@
 #!/bin/bash
-Still thinking
+PATH=$PATH:/action
